@@ -1,0 +1,11 @@
+description,category,priority
+"Huge pothole on Main st causing accidents",ROAD_DAMAGE,HIGH
+"Water leaking from broken pipe on Sector 5",WATER_ISSUE,HIGH
+"Traffic light is dead at the junction",TRAFFIC_ISSUE,EMERGENCY
+"Black smoke coming from the local factory",POLLUTION,MEDIUM
+"Power outage since last night in Sector 1",ELECTRICITY,HIGH
+"Garbage not collected for a week",PUBLIC_SERVICE,LOW
+"Stray dogs attacking kids",PUBLIC_SERVICE,EMERGENCY
+"Streetlights are off on Park avenue",ELECTRICITY,MEDIUM
+"Sewer overflow near the school",WATER_ISSUE,HIGH
+"Heavy traffic jam near the bridge",TRAFFIC_ISSUE,MEDIUM
